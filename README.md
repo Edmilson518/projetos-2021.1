@@ -9,7 +9,7 @@ Nesse semestre teremos um novo desafio na construção do projeto, onde vocês i
 
 O seu grupo deve criar um **Sistema WEB**, que pode ser uma página institucional, um Blog, uma API<sup>1</sup>, um sistema *on-line* com cadastro de produtos e clientes, um jogo *on-line*, ou qualquer Sistema WEB, desde que esteja hospedado na AWS e versionado no **GitHub**.
 
-<code>1. API é um conjunto de rotinas e padrões de programação para acesso a um aplicativo de software ou plataforma baseado na Web. A sigla API refere-se ao termo em inglês "*Application Programming Interface*" que significa em tradução para o português "Interface de Programação de Aplicativos".
+<sup>1</sup> <code>API é um conjunto de rotinas e padrões de programação para acesso a um aplicativo de software ou plataforma baseado na Web. A sigla API refere-se ao termo em inglês "*Application Programming Interface*" que significa em tradução para o português "Interface de Programação de Aplicativos".
 </code>
 
 O grupo deve escolher a linguagem de programação ou *framework* necessesário para execução do projeto proposto. **A utilização da linguagem PHP é recomendada por ser d3e fácil aprendizagem, além de ser instalada facilmente no ambiente do *AWS* e também trabalhar com o MySQl (MariaDB)**. Um tutorial para a criação do ambiente será disponibilizado em breve sobre a criação da máquina no **AWS**.
