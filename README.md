@@ -1,4 +1,4 @@
-## Projetos
+## Projetos de Pré e Pós Aula
 * PROJETO EM INFRAESTRUTURA E SEGURANÇA DA INFORMAÇÃO
 * PROJETO E MODELAGEM DE SISTEMAS DE SOFTWARE
 * PROJETO PRÁTICO DE PROGRAMAÇÃO
@@ -7,7 +7,7 @@
 ## Descrição
 Nesse semestre teremos um novo desafio na construção do projeto, onde vocês irão construir um **Sistema WEB** publicado na **AWS** e versionado no **GitHub**.
 
-O seu grupo deve criar um **Sistema WEB**, que pode ser uma página institucional, um Blog, uma API<sup>1<sup>, um sistema *on-line* com cadastro de produtos e clientes, um jogo *on-line*, ou qualquer Sistema WEB, desde que esteja hospedado na AWS e versionado no **GitHub**.
+O seu grupo deve criar um **Sistema WEB**, que pode ser uma página institucional, um Blog, uma API<sup>1</sup>, um sistema *on-line* com cadastro de produtos e clientes, um jogo *on-line*, ou qualquer Sistema WEB, desde que esteja hospedado na AWS e versionado no **GitHub**.
 
 <code>1. API é um conjunto de rotinas e padrões de programação para acesso a um aplicativo de software ou plataforma baseado na Web. A sigla API refere-se ao termo em inglês "*Application Programming Interface*" que significa em tradução para o português "Interface de Programação de Aplicativos".
 </code>
