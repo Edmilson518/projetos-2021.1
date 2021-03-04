@@ -7,18 +7,26 @@
 ## Descrição
 Nesse semestre teremos um novo desafio na construção do projeto, onde vocês irão construir um **Sistema WEB** publicado na **AWS** e versionado no **GitHub**.
 
-O seu grupo deve criar um **Sistema WEB**, que pode ser uma página institucional, um Blog, uma API<sup>1</sup>, um sistema *on-line* com cadastro de produtos e clientes, um jogo *on-line*, ou qualquer Sistema WEB, desde que esteja hospedado na AWS e versionado no **GitHub**.
+O seu grupo deve criar um **Sistema WEB**, que pode ser uma página institucional, um Blog, uma API<sup>1</sup> (Webservice), um sistema *on-line* com cadastro de produtos e clientes, um jogo *on-line*, ou qualquer Sistema WEB, desde que esteja hospedado na AWS e versionado no **GitHub**.
 
 <sup>1</sup> <code>API é um conjunto de rotinas e padrões de programação para acesso a um aplicativo de software ou plataforma baseado na Web. A sigla API refere-se ao termo em inglês "*Application Programming Interface*" que significa em tradução para o português "Interface de Programação de Aplicativos".
 </code>
 
-O grupo deve escolher a linguagem de programação ou *framework* necessesário para execução do projeto proposto. **A utilização da linguagem PHP é recomendada por ser d3e fácil aprendizagem, além de ser instalada facilmente no ambiente do *AWS* e também trabalhar com o MySQl (MariaDB)**. Um tutorial para a criação do ambiente será disponibilizado em breve sobre a criação da máquina no **AWS**.
+O grupo deve escolher a linguagem de programação ou *framework* necessesário para execução do projeto proposto. **A utilização da linguagem PHP é recomendada por ser de fácil aprendizagem, além de ser instalada facilmente no ambiente do *AWS* e também trabalhar com o MySQl (MariaDB)**. Um tutorial para a criação do ambiente será disponibilizado em breve sobre a criação da máquina no **AWS**.
 
 ## GRUPOS 
-Os grupos devem ser formados com 3 a 12 alunos (por grupo). Cada grupo deve criar um repositório no **GitHub** e indicar os integrantes no próprio repositório do projeto no arquivo README. 
++ Os grupos devem ser formados com 3 a 12 alunos (por grupo).
++ Cada grupo deve criar um repositório no **GitHub** e indicar os integrantes no próprio repositório do projeto no arquivo README, da seguinte forma:
 
+| RA   | NOME COMPLETO | CURSO | TURMA |
+|------|---------------|-------|-------|
+| 1234 | TIO PATINHAS  | TADS  | 1A    |
+|      |               |       |       |
+|      |               |       |       |
 
-## ENTREGA 
+Data da entrega dos nomes e criação do repositório dia **11/03/2021**.
+
+## ENTREGA FINAL
 As correções serão realizadas acessando diretamente o projeto do GitHub e o Sistema WEB *on-line*, hospedado no **AWS**. O endereço do sistema WEB deve constar no versionamento.
 Portanto, não enviar o projeto, documentação ou códigos por e-mail.
 
