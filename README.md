@@ -22,8 +22,9 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesário 
 | RA   | NOME COMPLETO | CURSO | TURMA |
 |------|---------------|-------|-------|
 | 1234 | TIO PATINHAS  | TADS  | 1A    |
-|      |               |       |       |
-|      |               |       |       |
+| 321  | ZÉ CARIOCA    | TADS  | 1A    |
+| 159  | Mc DONALDS    | TADS  | 1A    |
+| 785  | ULTIMO NOME   | TADS  | 1A    |
 
 Data da entrega dos nomes e criação do repositório dia **11/03/2021**.
 
