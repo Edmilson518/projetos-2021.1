@@ -16,6 +16,7 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesário 
 
 ## GRUPOS 
 + Os grupos devem ser formados com 3 a 12 alunos (por grupo).
++ O primeiro integrante da lista será o líder do grupo e deverá estar destacado em negrito.
 + Cada grupo deve criar um repositório no **GitHub** e indicar os integrantes no próprio repositório do projeto no arquivo README, da seguinte forma:
 
 | RA   | NOME COMPLETO | CURSO | TURMA |
