@@ -1,10 +1,10 @@
-## Projetos de Pré e Pós Aula
+# Projetos de Pré e Pós Aula
 * PROJETO EM INFRAESTRUTURA E SEGURANÇA DA INFORMAÇÃO
 * PROJETO E MODELAGEM DE SISTEMAS DE SOFTWARE
 * PROJETO PRÁTICO DE PROGRAMAÇÃO
 * PROJETO DE DESENVOLVIMENTO DE SISTEMAS
 
-## Descrição
+### Descrição
 Nesse semestre teremos um novo desafio na construção do projeto, onde vocês irão construir um **Sistema WEB** publicado na **AWS** e versionado no **GitHub**.
 
 O seu grupo deve criar um **Sistema WEB**, que pode ser uma página Institucional, um Blog, uma API<sup>[1](#myfootnote1)</sup> (Webservice), um sistema *on-line* com cadastro de Produtos e/ou Clientes, um Jogo *on-line*, ou qualquer **Sistema WEB**, desde que esteja hospedado na AWS e versionado no **GitHub**. Também pode ser desenvolvido um Aplicativo Móvel em qualquer linguagem, mas é necessário acessar algum recurso do AWS via **API**.
@@ -13,7 +13,8 @@ O seu grupo deve criar um **Sistema WEB**, que pode ser uma página Instituciona
 
 O grupo deve escolher a linguagem de programação ou *framework* necessesário para execução do projeto proposto. **A utilização da linguagem PHP é recomendada por ser de fácil aprendizagem, além de ser instalada facilmente no ambiente do *AWS* e também trabalhar com o MySQl (MariaDB)**. Um tutorial para a criação do ambiente será disponibilizado em breve sobre a criação da máquina no **AWS**.
 
-## FORMAÇÃO DOS GRUPOS 
+### Formação dos Grupos e Criação do Repositório
+### **11/03/2021**
 + Os grupos devem ser formados com 3 a 12 alunos (por grupo).
 + **O primeiro integrante da lista será o líder do grupo**.
 + Cada grupo deve criar um repositório no **GitHub** e indicar os integrantes no próprio repositório do projeto no arquivo README, da seguinte forma:
@@ -25,45 +26,36 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesário 
 | 159  | RONALD DONALD | TADS  | 1A    |
 | 785  | ULTIMO NOME   | TADS  | 1A    |
 
-## MODELO DO ARQUIVO "README.md" QUE DEVERÁ SER CRIADO NO RESPOSITÓRIO DO GRUPO
-* [README.md](exemplo_readme.md)
+### Criação do Repositório no GitHub
+Deverá ser criado um repositório **privado** onde todos os integrantes do grupo tenham acesso para realizar os "commits" dos programas. Incluir como participante o usuário **EdsonMSouza** (realizar o convite via *Manage Access*).
 
-## DATA DE ENTREGA DA FORMAÇÃO DOS GRUPOS E DO REPOSITÓRIO NO GITHUB
-* **11/03/2021**
+O [modelo](exemplo_readme.md) deverá ser preenchido com os dados do projeto e colocado na entrada do repositório.
 
-## ENTREGAS PARCIAIS
-* As orientações, entregas parciais e correções serão realizadas durantes as aulas de projeto nos dias determinados, conforme o horário.
-
+### Durante as Aulas
+* Serão realizadas orientações, resposta a dúvidas e correções nos dias determinados, conforme o horário.
 * Qualquer problema que ocorrer com os integrantes do grupo, deverá ser relatado durante as aulas e fomalizado por e-mail através do envio de uma **Ata**, detalhando o ocorrido e quais providências foram tomadas.
 
-## ENTREGA FINAL DO PROJETO
-As correções serão realizadas acessando diretamente o projeto do GitHub e o Sistema WEB *on-line*, hospedado no **AWS**. O endereço do sistema WEB deve constar no versionamento (O EC2 no AWS não deve ser desligado até a correção do trabalho para não perder o IP atribuído). Portanto, não enviar o projeto, documentação ou códigos por e-mail.
+# Entrega Final
+**31/05/2021**
 
-## FORMALIZAÇÃO DA ENTREGA
-* Para formalizar a entrega do projeto, apenas um integrante do grupo (Líder) de enviar por e-mail os seguintes dados no corpo da mensagem:
-* Dados:
-	+ **Nome e RA de cada um dos integrantes do grupo**. 
-	+ **Endereço do repositório**.
+* Versionamento do projeto no **GitHub**. 
+* Publicação do projeto na **AWS**.
+* Para **formalizar** a entrega do projeto, apenas um integrante do grupo (Líder) deve enviar por e-mail os dados abaixo no corpo da mensagem. **Atenção:** Sem o envio do e-mail com as informações abaixo o trabalho não será corrigido.
+* Dados a serem enviados no corpo e-mail:
+	+ **Nome e RA de *cada um* dos integrantes do grupo**.
+	+ **Endereço do repositório no GitHub**.
 	+ **Endereço do Sistema WEB** (Hospedado na AWS)
-	
-**ATENÇÃO:**
-Sem o envio do e-mail com estas informações o trabalho não será corrigido.
 
-## DATA DE ENTREGA
-* **31/05/2021**
-	+ Versionamento do projeto no **GitHub**. 
-	+ Publicação do projeto na **AWS**.
-	+ Envio do e-mail formalizando a entrega do projeto.
+### Correção do Proejto
+As correções serão realizadas acessando diretamente o projeto do GitHub e o Sistema WEB *on-line*, hospedado no **AWS**. O endereço do sistema WEB deve constar no versionamento (O EC2 no AWS não deve ser desligado até a correção do trabalho para não perder o IP atribuído). Portanto, **não enviar o projeto, documentação ou códigos** por e-mail, pois não serão lidos nem respondidos. 
 
-## Professor
-Prof. Edson Melo de Souza, MSc. - ([souzaem@uni9.pro.br](mailto:souzaem@uni9.pro.br))
+### Contato
+ Em caso de dúvidas encaminhar e-mail para (([Prof. Edson Melo de Souza, MSc.](mailto:souzaem@uni9.pro.br))), sempre informando seu **RA**, **Nome**, turma, dia da semana e o período no corpo da mensagem.
 
-## Contato
-Em caso de dúvidas encaminhar e-mail (([souzaem@uni9.pro.br](mailto:souzaem@uni9.pro.br))), sempre informando seu **RA**, **Nome**, turma, dia da semana e o período no corpo da mensagem.
-
-## Dicas - **Versionamento de GIT/GitHub**
+# Dicas
+### **Versionamento de GIT/GitHub**
 * [CANAL GERAÇÃO TI](https://youtube.com/geracaoti)
 * [Playlist GitHub](https://www.youtube.com/watch?v=IEz_0ZQZ3sQ&list=PL4ITHPnJ4STiWISI4cwYoaAy5PATKOh9x)
 
-## AWS Educate
-[Página de inscrição do AWS Educate](https://www.awseducate.com/signin/SiteLogin)
+### AWS Educate
+[Página de inscrição do AWS Educate](https://www.awseducate.com/signin/SiteLogin) - Observação: Ao preencher o cadastro, utilize o e-mail de aluno "@uni9.edu.br". Não é necessário preencher o campo "Promo Code".
