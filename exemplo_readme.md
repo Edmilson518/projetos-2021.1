@@ -15,9 +15,9 @@ Descrever brevemente o objetivo do projeto e como será alcançado. Por exemplo,
 # Endereço AWS
 Informar o endereço IP do AWS onde está aplicação, da forma mostrada abaixo. É importante lembrar que a máquina EC2 deve estar "no ar" para que as funcionalidades da aplicação estejam disponíveis. Caso nãoe steja na hora da correção, não háverá como atribuir uma nota, uma vez que não estará funcionando.
 
-* Endereço AWS: (Nome do Projeto)[endereço ip da(s) aplicação(ões)]
+* Endereço AWS: (Nome do Projeto)[182.1654.25.01]
 
-Se houver mais de uma máquina ou endereço, a linha acima deve ser replicada para cada um deles.
+*Se houver mais de uma máquina ou endereço, a linha acima deve ser replicada para cada um deles.*
 
 # Outras Observações
 Quaisquer instrução sobre instalação, configuração, acesso, etc., deverão constar neste documento para que a correção pelo professor seja realizada.
