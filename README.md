@@ -47,7 +47,7 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesário 
 As correções serão realizadas acessando diretamente o projeto do GitHub e o Sistema WEB *on-line*, hospedado no **AWS**. O endereço do sistema WEB deve constar no versionamento (O EC2 no AWS não deve ser desligado até a correção do trabalho para não perder o IP atribuído). Portanto, **não enviar o projeto, documentação ou códigos** por e-mail, pois não serão lidos nem respondidos. 
 
 ### Contato
- Em caso de dúvidas encaminhar e-mail para (([Prof. Edson Melo de Souza, MSc.](mailto:souzaem@uni9.pro.br))), sempre informando seu **RA**, **Nome**, turma, dia da semana e o período no corpo da mensagem.
+ Em caso de dúvidas encaminhar e-mail para ([Prof. Edson Melo de Souza, MSc.](mailto:souzaem@uni9.pro.br)), sempre informando seu **RA**, **Nome**, turma, dia da semana e o período no corpo da mensagem.
 
 # Dicas
 ### **Versionamento de GIT/GitHub**
