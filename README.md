@@ -43,7 +43,7 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesário 
 	+ **Endereço do repositório no GitHub**.
 	+ **Endereço do Sistema WEB** (Hospedado na AWS)
 
-### Correção do Proejto
+### Correção do Projeto
 As correções serão realizadas acessando diretamente o projeto do GitHub e o Sistema WEB *on-line*, hospedado no **AWS**. O endereço do sistema WEB deve constar no versionamento (O EC2 no AWS não deve ser desligado até a correção do trabalho para não perder o IP atribuído). Portanto, **não enviar o projeto, documentação ou códigos** por e-mail, pois não serão lidos nem respondidos. 
 
 ### Contato
