@@ -13,7 +13,7 @@ O seu grupo deve criar um **Sistema WEB**, que pode ser uma página Instituciona
 
 O grupo deve escolher a linguagem de programação ou *framework* necessesário para execução do projeto proposto. **A utilização da linguagem PHP é recomendada por ser de fácil aprendizagem, além de ser instalada facilmente no ambiente do *AWS* e também trabalhar com o MySQl (MariaDB)**. Um tutorial para a criação do ambiente será disponibilizado em breve sobre a criação da máquina no **AWS**.
 
-### Formação dos Grupos e Criação do Repositório: **11/03/2021**
+### **11/03/2021** - Entrega da Formação dos Grupos e Criação do Repositório 
 
 * Os grupos devem ser formados com 3 a 12 alunos (por grupo).
 * **O primeiro integrante da lista será o líder do grupo**.
@@ -34,7 +34,7 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesário 
 * Serão realizadas orientações, resposta a dúvidas e correções nos dias determinados, conforme o horário.
 * Qualquer problema que ocorrer com os integrantes do grupo, deverá ser relatado durante as aulas e fomalizado por e-mail através do envio de uma **Ata**, detalhando o ocorrido e quais providências foram tomadas.
 
-# Entrega Final: **31/05/2021**
+# **31/05/2021** - Entrega Final
 * Versionamento do projeto no **GitHub**. 
 * Publicação do projeto na **AWS**.
 * Para **formalizar** a entrega do projeto, apenas um integrante do grupo (Líder) deve enviar por e-mail os dados abaixo no corpo da mensagem. **Atenção:** Sem o envio do e-mail com as informações abaixo o trabalho não será corrigido.
