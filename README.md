@@ -55,4 +55,8 @@ As correções serão realizadas acessando diretamente o projeto do GitHub e o S
 * [Playlist GitHub](https://www.youtube.com/watch?v=IEz_0ZQZ3sQ&list=PL4ITHPnJ4STiWISI4cwYoaAy5PATKOh9x)
 
 ### AWS Educate
-[Página de inscrição do AWS Educate](https://www.awseducate.com/signin/SiteLogin) - Observação: Ao preencher o cadastro, utilize o e-mail de aluno "@uni9.edu.br". Não é necessário preencher o campo "Promo Code".
+[Página de inscrição do AWS Educate](https://www.awseducate.com/signin/SiteLogin)
+
+* **Observação**
+	+ Ao preencher o cadastro, utilize o e-mail de aluno "@uni9.edu.br".
+	+ Não é necessário preencher o campo "Promo Code".
