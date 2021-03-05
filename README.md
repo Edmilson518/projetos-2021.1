@@ -28,7 +28,7 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesário 
 
 ### Criação do Repositório no GitHub
 * Deverá ser criado um repositório **privado** onde todos os integrantes do grupo tenham acesso para realizar os "commits" dos programas. Incluir como participante o usuário **EdsonMSouza** (realizar o convite via *Manage Access*).
-* O [modelo](exemplo_readme.md) deverá ser preenchido com os dados do projeto e colocado na entrada do repositório.
+* O **[MODELO README.md](exemplo_readme.md)** deverá ser criado e preenchido com os dados do projetom, inserido na entrada do repositório do grupo.
 
 ### Durante as Aulas
 * Serão realizadas orientações, resposta a dúvidas e correções nos dias determinados, conforme o horário.
