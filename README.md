@@ -42,8 +42,7 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesária 
 
 <hr>
 
-**DICAS**
-Para escolher a melhor plataforma em nuvem ou hospedagem gratuita, faça pesquisas no YouTube sobre: Heroku, Alibaba Cloud, AWS e Awardspace. Existem muitas opções gratuitas. Portanto, pesquise bastante e decida qual é a solução que melhor se adeque ao seu projeto.
+**DICAS:** Existem muitas opções gratuitas de serviços em nuvem ou hospedagem gratuita. Faça pesquisas no YouTube sobre os termos Heroku, Alibaba Cloud, AWS e Awardspace. Explore as opções e decida qual é a solução mais adequada ao seu projeto.
 
 <hr>
 
