@@ -47,7 +47,7 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesária 
 <hr>
 
 ### Aulas
-Serão realizadas orientações, resposta a dúvidas e correções nos dias determinados, conforme o horário.
+No decorrer das aulas serão realizadas orientações, resposta a dúvidas e correções nos dias determinados, conforme o horário institucional.
 
 **ATENÇÃO:**
 * Qualquer problema que ocorrer com o projeto ou membros do grupo, deverá ser comunicado durante as aulas e fomalizado por e-mail através do envio de uma **[Ata](https://github.com/EdsonMSouza/projetos-2021.1/blob/main/Modelo%20de%20Ata.docx)**, detalhando o ocorrido e quais providências foram ou serão tomadas.
