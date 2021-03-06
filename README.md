@@ -7,7 +7,7 @@
 ### Descrição
 Nesse semestre teremos um novo desafio no desenvolvimento do projeto, onde vocês irão construir um **Sistema WEB** publicado em algum **Sistema de Nuvem (*Cloud Free*)** como a *Amazon AWS*, *Heroku* e *Microsoft Azure*. Também podem ser utilizadas plataformas de **Hospedagem Gratuitas** como o *Awardspace*. Além da hospedagem em nuvem, também será utilizado o sistema de versionamento [**GitHub**](http://www.github.com). 
 
-Neste [link](https://www.youtube.com/watch?v=IEz_0ZQZ3sQ&list=PL4ITHPnJ4STiWISI4cwYoaAy5PATKOh9x) está disponível um tutorial sobre GitHub para auxiliar na criação da conta e como trabalhar com o Git e Github.
+Neste [link](https://www.youtube.com/watch?v=IEz_0ZQZ3sQ&list=PL4ITHPnJ4STiWISI4cwYoaAy5PATKOh9x) está disponível um tutorial sobre Git e GitHub.
 
 ### Objetivos
 * Colocar o discente em contato com tecnologias atuais e amplamente utilizadas no mercado de trabalho.
