@@ -27,8 +27,27 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesário 
 | 785  | ULTIMO NOME   | TADS  | 1A    |
 
 ### Criação do Repositório no GitHub
-* Deverá ser criado um repositório **privado** onde todos os integrantes do grupo tenham acesso para realizar os "commits" dos programas. Incluir como participante o usuário **EdsonMSouza** (realizar o convite via *Manage Access*).
+* Deverá ser criado um repositório **privado** onde todos os integrantes do grupo tenham acesso para realizar os "commits" dos programas. 
 * O arquivo de **[modelo README.md](exemplo_readme.md)** deverá ser criado e preenchido com os dados do projetom, inserido na entrada do repositório do grupo.
+* Incluir como participante do repositório os usuários (realizar o convite via *Manage Access*):
+	+ Prof. Edson Melo de Souza - **EdsonMSouza**
+	+ Prof. Marcio Klein - **marcioklein8261**
+
+<hr>
+
+# Tutorial GitHub e Versionamento
+* [Tutorial GitHub](https://www.youtube.com/watch?v=IEz_0ZQZ3sQ&list=PL4ITHPnJ4STiWISI4cwYoaAy5PATKOh9x)
+
+# AWS Educate
+* [Instruções AWS](https://youtu.be/vzd1Fu0NBrU)
+* [Palestra Amazon](https://youtu.be/6cjpziT3_mU)
+* [Página de inscrição do AWS Educate](https://www.awseducate.com/signin/SiteLogin)
+
+**Observação**
+	+ Ao preencher o cadastro, utilize o e-mail de aluno "@uni9.edu.br".
+	+ Não é necessário preencher o campo "Promo Code".
+
+<hr>
 
 ### Durante as Aulas
 * Serão realizadas orientações, resposta a dúvidas e correções nos dias determinados, conforme o horário.
@@ -48,15 +67,3 @@ As correções serão realizadas acessando diretamente o projeto do GitHub e o S
 
 ### Contato
  Em caso de dúvidas encaminhar e-mail para ([Prof. Edson Melo de Souza, MSc.](mailto:souzaem@uni9.pro.br) - souzaem@uni9.pro.br), sempre informando seu **RA**, **Nome**, **Turma**, **Dia da Semana da Aula** e o **Período** no corpo da mensagem.
-
-# Dicas
-### **Versionamento de GIT/GitHub**
-* [CANAL GERAÇÃO TI](https://youtube.com/geracaoti)
-* [Playlist GitHub](https://www.youtube.com/watch?v=IEz_0ZQZ3sQ&list=PL4ITHPnJ4STiWISI4cwYoaAy5PATKOh9x)
-
-### AWS Educate
-[Página de inscrição do AWS Educate](https://www.awseducate.com/signin/SiteLogin)
-
-* **Observação**
-	+ Ao preencher o cadastro, utilize o e-mail de aluno "@uni9.edu.br".
-	+ Não é necessário preencher o campo "Promo Code".
