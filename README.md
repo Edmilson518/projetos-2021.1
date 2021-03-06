@@ -30,8 +30,8 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesário 
 * Deverá ser criado um repositório **privado** onde todos os integrantes do grupo tenham acesso para realizar os "commits" dos programas. 
 * O arquivo de **[modelo README.md](exemplo_readme.md)** deverá ser criado e preenchido com os dados do projetom, inserido na entrada do repositório do grupo.
 * Incluir como participante do repositório os usuários (realizar o convite via *Manage Access*):
-	+ Prof. Edson Melo de Souza - **EdsonMSouza**
-	+ Prof. Marcio Klein - **marcioklein8261**
+	+ **EdsonMSouza** - Prof. Edson Melo de Souza
+	+ **marcioklein8261** - Prof. Marcio Klein
 
 <hr>
 
