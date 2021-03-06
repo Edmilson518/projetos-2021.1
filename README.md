@@ -5,18 +5,23 @@
 * PROJETO DE DESENVOLVIMENTO DE SISTEMAS
 
 ### Descrição
-Nesse semestre teremos um novo desafio na construção do projeto, onde vocês irão construir um **Sistema WEB** publicado na **AWS** e versionado no **GitHub**.
+Nesse semestre teremos um novo desafio no desenvolvimento do projeto, onde vocês irão construir um **Sistema WEB** publicado em algum **Sistema de Nuvem (*Cloud Free*)** como a *Amazon AWS*, *Heroku* e *Microsoft Azure*. Também podem ser utilizadas plataformas de **Hospedagem Gratuitas** como o *Awardspace*. Além disso, também será utilizado o sistema de versionamento no **GitHub**. 
 
-O seu grupo deve criar um **Sistema WEB**, que pode ser uma página Institucional, um Blog, uma API<sup>[1](#myfootnote1)</sup> (Webservice), um sistema *on-line* com cadastro de Produtos e/ou Clientes, um Jogo *on-line*, ou qualquer **Sistema WEB**, desde que esteja hospedado na AWS e versionado no **GitHub**. Também pode ser desenvolvido um Aplicativo Móvel em qualquer linguagem, mas é necessário acessar algum recurso do AWS via **API**.
+### Objetivos
+* Colocar o discente em contato com tecnologias atuais e amplamente utilizadas no mercado de trabalho.
+* Despertar o interesse para a pesquisa de soluções e resoluções de problemas emergentes.
+* Desafiar os discentes a utilizarem recursos além dos aprendidos em sala de aula.
+
+### Orientações
+O seu grupo deve criar um **Sistema WEB**, que pode ser uma página Institucional, um Blog, uma API<sup>[1](#myfootnote1)</sup> (Webservice), um sistema *on-line* com cadastro de Produtos e/ou Clientes, um Jogo *on-line*, ou qualquer **Sistema WEB**, desde que esteja hospedado em nuvem e versionado no **GitHub**. Também pode ser desenvolvido um Aplicativo Móvel em qualquer linguagem, mas é necessário acessar algum recurso de nuvem via **API**.
 
 <a name="myfootnote1">1</a>: *[API](https://www.techtudo.com.br/listas/2020/06/o-que-e-api-e-para-que-serve-cinco-perguntas-e-respostas.ghtml) é um conjunto de rotinas e padrões de programação para acesso a um aplicativo de software ou plataforma baseado na Web. A sigla API refere-se ao termo em inglês "Application Programming Interface" que significa em tradução para o português "Interface de Programação de Aplicativos".*
 
-O grupo deve escolher a linguagem de programação ou *framework* necessesário para execução do projeto proposto. **A utilização da linguagem PHP é recomendada por ser de fácil aprendizagem, além de ser instalada facilmente no ambiente do *AWS* e também trabalhar com o MySQl (MariaDB)**. Um tutorial para a criação do ambiente será disponibilizado em breve sobre a criação da máquina no **AWS**.
+O grupo deve escolher a linguagem de programação ou *framework* necessesária para execução do projeto proposto. **A utilização da linguagem PHP é recomendada por ser de fácil aprendizagem e também trabalhar com o banco de dados MySQl (MariaDB)**. Entretanto, qualquer linguagem será aceita no desenvolvimento, como exemplo: Node.js, C#, java, Python, entre outras.
 
 ### **11/03/2021** - Entrega da Formação dos Grupos e Criação do Repositório 
-
 * Os grupos devem ser formados com 3 a 12 alunos (por grupo).
-* **O primeiro integrante da lista será o líder do grupo**.
+* **O primeiro integrante da lista deve ser o líder do grupo**.
 * Cada grupo deve criar um repositório no **GitHub** e indicar os integrantes no próprio repositório do projeto no arquivo README, da seguinte forma:
 
 | RA   | NOME COMPLETO | CURSO | TURMA |
@@ -39,13 +44,8 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesário 
 * [GitHub](https://www.github.com) - Site do GitHub
 * [Tutorial GitHub](https://www.youtube.com/watch?v=IEz_0ZQZ3sQ&list=PL4ITHPnJ4STiWISI4cwYoaAy5PATKOh9x) - Prof. Daniel Ferreira
 
-# AWS Educate
-* [Instruções AWS](https://youtu.be/vzd1Fu0NBrU)
-* [Palestra Amazon](https://youtu.be/6cjpziT3_mU)
-* [Página de inscrição do AWS Educate](https://www.awseducate.com/signin/SiteLogin)
-* **Observação**
-	+ Ao preencher o cadastro, utilize o e-mail de aluno "@uni9.edu.br".
-	+ Não é necessário preencher o campo "Promo Code".
+**DICAS**
+Para escolher a melhor plataforma em nuvem ou hospedagem gratuita, faça pesquisas no YouTube sobre: Heroku, Alibaba Cloud, AWS e Awardspace. Existem muitas opções gratuitas. Portanto, pesquise bastante e decida qual é a solução que melhor se adeque ao seu projeto.
 
 <hr>
 
@@ -55,15 +55,15 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesário 
 
 # **31/05/2021** - Entrega Final
 * Versionamento do projeto no **GitHub**. 
-* Publicação do projeto na **AWS**.
+* Publicação do projeto em algum **Sistema de Nuvem**.
 * Para **formalizar** a entrega do projeto, apenas um integrante do grupo (Líder) deve enviar por e-mail os dados abaixo no corpo da mensagem. **Atenção:** Sem o envio do e-mail com as informações abaixo o trabalho não será corrigido.
 * Dados a serem enviados no corpo e-mail:
 	+ **Nome e RA de *cada um* dos integrantes do grupo**.
 	+ **Endereço do repositório no GitHub**.
-	+ **Endereço do Sistema WEB** (Hospedado na AWS)
+	+ **Endereço do Sistema WEB** (Hospedagem)
 
 ### Correção do Projeto
-As correções serão realizadas acessando diretamente o projeto do GitHub e o Sistema WEB *on-line*, hospedado no **AWS**. O endereço do sistema WEB deve constar no versionamento (O EC2 no AWS não deve ser desligado até a correção do trabalho para não perder o IP atribuído). Portanto, **não enviar o projeto, documentação ou códigos** por e-mail, pois não serão lidos nem respondidos. 
+As correções serão realizadas acessando diretamente o projeto do GitHub e o Sistema WEB *on-line*. O endereço do sistema WEB deve constar no versionamento (Em caso de *Cloud*, manter a máquina ligada até a correção do trabalho para não perder o IP atribuído). Portanto, **não enviar o projeto, documentação ou códigos** por e-mail, pois não serão lidos nem respondidos. 
 
 ### Contato
  Em caso de dúvidas encaminhar e-mail para ([Prof. Edson Melo de Souza, MSc.](mailto:souzaem@uni9.pro.br) - souzaem@uni9.pro.br), sempre informando seu **RA**, **Nome**, **Turma**, **Dia da Semana da Aula** e o **Período** no corpo da mensagem.
