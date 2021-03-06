@@ -5,7 +5,12 @@
 * PROJETO DE DESENVOLVIMENTO DE SISTEMAS
 
 ### Descrição
-Nesse semestre teremos um novo desafio no desenvolvimento do projeto, onde vocês irão construir um **Sistema WEB** publicado em algum **Sistema de Nuvem (*Cloud Free*)** como a *Amazon AWS*, *Heroku* e *Microsoft Azure*. Também podem ser utilizadas plataformas de **Hospedagem Gratuitas** como o *Awardspace*. Além disso, também será utilizado o sistema de versionamento no **GitHub**. 
+Nesse semestre teremos um novo desafio no desenvolvimento do projeto, onde vocês irão construir um **Sistema WEB** publicado em algum **Sistema de Nuvem (*Cloud Free*)** como a *Amazon AWS*, *Heroku* e *Microsoft Azure*.
+
+Também podem ser utilizadas plataformas de **Hospedagem Gratuitas** como o *Awardspace*.
+
+Além da hospedagem em nuvem, também será utilizado o sistema de versionamento [**GitHub**](http://www.github.com).
+* [Tutorial sobre GitHub](https://www.youtube.com/watch?v=IEz_0ZQZ3sQ&list=PL4ITHPnJ4STiWISI4cwYoaAy5PATKOh9x)
 
 ### Objetivos
 * Colocar o discente em contato com tecnologias atuais e amplamente utilizadas no mercado de trabalho.
@@ -39,10 +44,6 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesária 
 	+ **marcioklein8261** - Prof. Marcio Klein
 
 <hr>
-
-# Tutorial GitHub e Versionamento
-* [GitHub](https://www.github.com) - Site do GitHub
-* [Tutorial GitHub](https://www.youtube.com/watch?v=IEz_0ZQZ3sQ&list=PL4ITHPnJ4STiWISI4cwYoaAy5PATKOh9x) - Prof. Daniel Ferreira
 
 **DICAS**
 Para escolher a melhor plataforma em nuvem ou hospedagem gratuita, faça pesquisas no YouTube sobre: Heroku, Alibaba Cloud, AWS e Awardspace. Existem muitas opções gratuitas. Portanto, pesquise bastante e decida qual é a solução que melhor se adeque ao seu projeto.
