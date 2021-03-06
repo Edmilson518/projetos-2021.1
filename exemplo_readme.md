@@ -1,10 +1,10 @@
-# Nome do Projeto
-### **Projeto Exemplo**
+# **Projeto Exemplo**
 
-# Descrição
-Descrever brevemente o objetivo do projeto e como será alcançado. Por exemplo, citar as metodologias utilizadas, linguagens de programação, etc.
+## Dados da Turma
+* Dia da semana: **Quarta-Feira**
+* Período: **Noturno**
 
-# Integrantes
+## Integrantes
 | RA   | NOME COMPLETO | CURSO | TURMA |
 |------|---------------|-------|-------|
 | 1234 | TIO PATINHAS  | TADS  | 1A    |
@@ -12,12 +12,17 @@ Descrever brevemente o objetivo do projeto e como será alcançado. Por exemplo,
 | 159  | Mc DONALDS    | TADS  | 1A    |
 | 785  | ÚLTIMO NOME   | TADS  | 1A    |
 
-# Endereço AWS
-Informar o endereço IP do AWS onde está aplicação, conforme exemplo abaixo. É importante lembrar que a máquina EC2 deve estar "no ar" para que as funcionalidades da aplicação estejam disponíveis. Caso nãoe steja na hora da correção, não háverá como atribuir uma nota, uma vez que não estará funcionando.
+## Descrição do Projeto
+Descrever brevemente o objetivo do projeto e como será alcançado. Por exemplo, citar as metodologias utilizadas, linguagens de programação, etc.
 
-* Endereço AWS: [182.1654.25.01](http://www.182.1654.25.01/)
+## Endereço da Aplicação
+Informar o endereço IP ou URL da aplicação, conforme exemplo abaixo. É importante lembrar que a máquinas em *Cloud* devem estar "no ar" para que as funcionalidades da aplicação estejam disponíveis. Caso não estejam disponíveis os serviços ou a aplicação não puder ser executada, não háverá como atribuir uma nota.
+
+* Endereço da aplicação\*:
+	+ [182.1654.25.01](http://www.182.1654.25.01/) ou
+	+ [http://suaurl.com](http://suaurl.com)
 
 *Se houver mais de uma máquina ou endereço, a linha acima deve ser replicada para cada um deles.*
 
-# Outras Observações
-Quaisquer instrução sobre instalação, configuração, acesso, etc., deverão constar neste documento para que a correção pelo professor seja realizada.
+## Outras Observações
+Quaisquer instruções sobre instalação, configuração, acesso, etc., deverão constar neste documento para que a correção pelo professor possa ser realizada.
