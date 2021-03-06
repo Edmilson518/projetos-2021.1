@@ -46,9 +46,9 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesária 
 
 <hr>
 
-### Durante as Aulas
+### Aulas
 * Serão realizadas orientações, resposta a dúvidas e correções nos dias determinados, conforme o horário.
-* **ATENÇÃO** Qualquer problema que ocorrer com integrantes do grupo, deverá ser comunicado durante as aulas e fomalizado por e-mail através do envio de uma **[Ata](https://github.com/EdsonMSouza/projetos-2021.1/blob/main/Modelo%20de%20Ata.docx)**, detalhando o ocorrido e quais providências foram ou serão tomadas.
+* **ATENÇÃO:** Qualquer problema que ocorrer com integrantes do grupo, deverá ser comunicado durante as aulas e fomalizado por e-mail através do envio de uma **[Ata](https://github.com/EdsonMSouza/projetos-2021.1/blob/main/Modelo%20de%20Ata.docx)**, detalhando o ocorrido e quais providências foram ou serão tomadas.
 
 # **31/05/2021** - Entrega Final
 * Versionamento do projeto no **GitHub**. 
