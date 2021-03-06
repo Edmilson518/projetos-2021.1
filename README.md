@@ -36,14 +36,14 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesário 
 <hr>
 
 # Tutorial GitHub e Versionamento
-* [Tutorial GitHub](https://www.youtube.com/watch?v=IEz_0ZQZ3sQ&list=PL4ITHPnJ4STiWISI4cwYoaAy5PATKOh9x)
+* [GitHub](https://www.github.com) - Site do GitHub
+* [Tutorial GitHub](https://www.youtube.com/watch?v=IEz_0ZQZ3sQ&list=PL4ITHPnJ4STiWISI4cwYoaAy5PATKOh9x) - Prof. Daniel Ferreira
 
 # AWS Educate
 * [Instruções AWS](https://youtu.be/vzd1Fu0NBrU)
 * [Palestra Amazon](https://youtu.be/6cjpziT3_mU)
 * [Página de inscrição do AWS Educate](https://www.awseducate.com/signin/SiteLogin)
-
-**Observação**
+* **Observação**
 	+ Ao preencher o cadastro, utilize o e-mail de aluno "@uni9.edu.br".
 	+ Não é necessário preencher o campo "Promo Code".
 
