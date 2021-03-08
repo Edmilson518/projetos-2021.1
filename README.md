@@ -22,7 +22,7 @@ O seu grupo deve criar um **Sistema WEB**, que pode ser uma página Instituciona
 O grupo deve escolher a linguagem de programação ou *framework* necessesária para execução do projeto proposto. **A utilização da linguagem PHP é recomendada por ser de fácil aprendizagem e também trabalhar com o banco de dados MySQl (MariaDB)**. Entretanto, qualquer linguagem será aceita no desenvolvimento, como exemplo: Node.js, C#, java, Python, entre outras.
 
 ## **11/03/2021** - Entrega da Formação dos Grupos e Criação do Repositório 
-* Os grupos devem ser formados com 3 a 12 alunos (por grupo).
+* Os grupos devem ser formados com no míniomo 3 (por grupo).
 * **O primeiro integrante da lista deve ser o líder do grupo**.
 * Cada grupo deve criar um repositório no **GitHub** e indicar os integrantes no próprio repositório do projeto no arquivo README, da seguinte forma:
 
@@ -38,7 +38,7 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesária 
 * O arquivo de **[modelo README.md](exemplo_readme.md)** deverá ser criado e preenchido com os dados do projeto, inserido na entrada do repositório do grupo.
 * Incluir como participante do repositório os usuários (realizar o convite via *Manage Access*):
 	+ **EdsonMSouza** - Prof. Edson Melo de Souza
-	+ **marcioklein8261** - Prof. Marcio Klein (***apenas para a turma de Sexta-Feira - Noite***)
+	+ **marcioklein8261** - Prof. Marcio Klein (***apenas a turma de Sexta-Feira - Noite***)
 
 <hr>
 
