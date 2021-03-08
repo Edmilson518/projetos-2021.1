@@ -38,7 +38,7 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesária 
 * O arquivo de **[modelo README.md](exemplo_readme.md)** deverá ser criado e preenchido com os dados do projeto, inserido na entrada do repositório do grupo.
 * Incluir como participante do repositório os usuários (realizar o convite via *Manage Access*):
 	+ **EdsonMSouza** - Prof. Edson Melo de Souza
-	+ **marcioklein8261** - Prof. Marcio Klein (apenas para a turma de Sexta-Feira Noite)
+	+ **marcioklein8261** - Prof. Marcio Klein (***apenas para a turma de Sexta-Feira - Noite***)
 
 <hr>
 
