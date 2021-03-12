@@ -40,6 +40,10 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesária 
 	+ **EdsonMSouza** - Prof. Edson Melo de Souza
 	+ **marcioklein8261** - Prof. Marcio Klein (***apenas a turma de Sexta-Feira - Noite***)
 
+**Dica**
+* Para adicionar os professores, acesse a guia Settings do repositório.
+* Acesse o caminho: Settings > Manage Access > Invite a collaborator e insira na caixa de pesquisa o nome do usuário (um por vez).
+
 <hr>
 
 **DICAS:** Existem muitas opções gratuitas de serviços em nuvem ou hospedagem gratuita. Faça pesquisas no YouTube sobre os termos Heroku, Alibaba Cloud, AWS e Awardspace. Explore as opções e decida qual é a solução mais adequada ao seu projeto.
