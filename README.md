@@ -5,7 +5,7 @@
 * PROJETO DE DESENVOLVIMENTO DE SISTEMAS
 
 ## Objetivos e Desafios
-* Colocar o discente em contato com tecnologias atuais e amplamente utilizadas no mercado de trabalho.
+* Colocar o discente (aluno ou aluna) em contato com tecnologias atuais e amplamente utilizadas no mercado de trabalho.
 * Despertar o interesse para a pesquisa de soluções e resoluções de problemas emergentes.
 * **Desafiar os discentes a utilizarem recursos além dos aprendidos em sala de aula**.
 
