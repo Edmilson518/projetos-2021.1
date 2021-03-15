@@ -53,7 +53,7 @@ O grupo deve escolher a linguagem de programação ou *framework* necessesária 
 ## Aulas
 No decorrer das aulas serão realizadas orientações, resposta a dúvidas e correções nos dias determinados, conforme o horário de alocação.
 
-## **A T E N Ç Ã O**
+## **ATENÇÃO**
 * Qualquer problema que ocorrer com o projeto ou entre membros do grupo, deverá ser comunicado durante as aulas e fomalizado por e-mail através do envio de uma **[Ata](https://github.com/EdsonMSouza/projetos-2021.1/blob/main/Modelo%20de%20Ata.docx)**, detalhando o ocorrido e quais providências foram ou serão tomadas.
 * A presença dos alunos nas aulas são fundamentais para o bom andamento do projeto.
 * Durante as aulas, recomendamos que o ao menos o líder do projeto esteja presente para posicionar os professores sobre seu andamento.
