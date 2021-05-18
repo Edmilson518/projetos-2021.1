@@ -62,10 +62,12 @@ No decorrer das aulas serão realizadas orientações, resposta a dúvidas e cor
 * Versionamento do projeto no **GitHub**. 
 * Publicação do projeto em algum **Sistema de Nuvem**.
 * Para **formalizar** a entrega do projeto, apenas um integrante do grupo (Líder) deve enviar por e-mail os dados abaixo no corpo da mensagem. **Atenção:** Sem o envio do e-mail com as informações abaixo o trabalho não será corrigido.
-* Dados a serem enviados no corpo e-mail:
-	+ **Nome e RA de *cada um* dos integrantes do grupo**.
-	+ **Endereço do repositório no GitHub**.
-	+ **Endereço do Sistema WEB** (Hospedagem)
+* Dados a serem enviados:
+ 	+ **Assunto**: Entrega de Projeto -  Turma XX (XX é o número da turma)
+ 	+ **Corpo da mensagem**:
+		+ **Nome e RA de *cada um* dos integrantes do grupo**.
+		+ **Endereço do repositório no GitHub**.
+		+ **Endereço do Sistema WEB** (Hospedagem, se houver)
 
 ## Correção do Projeto
 As correções serão realizadas acessando diretamente o projeto do GitHub e o Sistema WEB *on-line*. O endereço do sistema WEB deve constar no versionamento (Em caso de *Cloud*, manter a máquina ligada até a correção do trabalho para não perder o IP atribuído). Portanto, **não enviar o projeto, documentação ou códigos** por e-mail, pois não serão lidos nem respondidos. 
